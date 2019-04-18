@@ -1,5 +1,6 @@
-Odbayar Bumaa 
-25 March 2019 
+# Although this project is fully functionable, it is still being worked on. 
+# If there is a segmentation fault, please try running again. It works most of the time. 
+# Currently working looking at all the pointers, and removing all seg. faults. 
 
 
 In order to run this program,
