@@ -1,4 +1,5 @@
 # Robot Arm
+# The project is still being worked on. 
 
 Summary: 
 This project uses a robot arm with 12 degrees of mechanical freedom. The robot arm and the camera are programmed in separate .py files. 
